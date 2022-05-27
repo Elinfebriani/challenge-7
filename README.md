@@ -1,3 +1,5 @@
+#leptopnya terhubung dengan dua email sehingga susah jika push secara manual 
+
 # Getting Started
 
 Sebelum memulai untuk menjalankan projek ini ada beberapa hal yang harus disiapkan.
